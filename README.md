@@ -3,3 +3,4 @@
 - 🌱 I’m currently trying to improve my clean code and architecture skills
 - 💞️ I’m working at [Medelse](https://github.com/Medelse) as lead tech
 
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillaumecasbas&layout=compact)
